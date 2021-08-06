@@ -1,2 +1,2 @@
-# ThePainGame
+# thePainGame
 Its in the name
